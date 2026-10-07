@@ -1,7 +1,7 @@
 {
   "name": "karaoke-management",
-  "version": "1.0.0",
-  "description": "Ứng dụng quản lý quán Karaoke",
+  "version": "2.0.0",
+  "description": "Ứng dụng quản lý quán Karaoke toàn diện",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
